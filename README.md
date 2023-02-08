@@ -1,8 +1,9 @@
 # BuildLab_Crypto
- Simple program that encrypt/decrypt files for "buildlab" and "UserOptions" inside game folder
+Simple program that encrypt/decrypt files for "buildlab" and "UserOptions" inside game folder
  
 ## Usage
 Copy file inside the same folder as program and then launch it with args: [key] [filename]
+
 You can obtain key from game binary or use one of below.
 
 ## Keys
