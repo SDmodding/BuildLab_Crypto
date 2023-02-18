@@ -11,4 +11,4 @@ You can obtain key from game binary or use one below.
 | Game  | Key |
 | ------------- | ------------- |
 | Sleeping Dogs: Definitive Edition | 61726520796f75206d79206d6f6d6d793f |
-| Triad Wars (15. Apr 2015 Build) | 62d76d90779620f566f679dd661720253 |
+| Triad Wars (All 2015 Builds) | 62d76d90779620f566f679dd661720253 |
